@@ -1,1 +1,73 @@
-# PrivateWhisper
+**PrivateWhisper** is a simple macOS app that transcribes audio fully offline using **Whisper.cpp**.  
+Your files never leave your device — no cloud, no accounts, no tracking.
+
+<p align="center">
+  <img src="screenshots/app.png" width="500" />
+</p>
+
+---
+
+## 🚀 Features
+- Fully offline transcription (Whisper.cpp)
+- Drag & drop audio files (m4a, mp3, wav, etc.)
+- Batch transcriptions (multiple files at once)
+- Choose Whisper model (tiny, small, medium)
+- Optimized for Apple Silicon (M1/M2/M3)
+- Supports 98+ languages
+- Exports transcript to .txt or .srt (subtitles) or simple copy paste
+
+Requires **Apple Silicon**.
+
+---
+
+## 📥 Download (Free)
+**macOS DMG:**  
+https://privatewhisper.app
+
+No signup. No telemetry. Just download and run.
+
+---
+
+## 🔒 Privacy
+PrivateWhisper processes everything locally.  
+Your audio never leaves your Mac.
+
+- No analytics  
+- No internet connection required  
+- No external services  
+- Everything happens on-device
+
+This makes it ideal for:
+- interviews  
+- meetings  
+- podcasts  
+- lectures  
+- sensitive recordings  
+
+
+---
+
+## 🧠 Models Supported
+- `tiny`
+- `small`
+- `medium`
+- `base`
+- `large v3`
+- `large v3 turbo`
+- More coming soon!
+
+---
+
+## 🗺️ Roadmap
+These are planned but not guaranteed timelines:
+
+- More export formats  
+- Meeting recording
+- More models
+- Text to speech functionality
+
+---
+
+## 📬 Contact
+If you find a bug or have suggestions, open an issue or contact:  
+matyashajek@proton.me
