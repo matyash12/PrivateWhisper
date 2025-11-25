@@ -2,7 +2,7 @@
 Your files never leave your device — no cloud, no accounts, no tracking.
 
 <p align="center">
-  <img src="screenshots/app.png" width="500" />
+  <img src="app.png" width="500" />
 </p>
 
 ---
