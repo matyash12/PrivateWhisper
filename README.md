@@ -22,7 +22,7 @@ Requires **Apple Silicon**.
 
 ## 📥 Download (Free)
 **macOS DMG:**  
-https://privatewhisper.app
+https://direct.privatewhisper.app
 
 No signup. No telemetry. Just download and run.
 
