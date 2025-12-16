@@ -20,9 +20,9 @@ Requires **Apple Silicon**.
 
 ---
 
-## 📥 Download (Free)
+## 📥 Download
 **macOS DMG:**  
-https://direct.privatewhisper.app
+[LINK TO DOWNLOAD](https://matyash.gumroad.com/l/PrivateWhisper)
 
 No signup. No telemetry. Just download and run.
 
