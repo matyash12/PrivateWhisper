@@ -11,10 +11,11 @@ Your files never leave your device — no cloud, no accounts, no tracking.
 - Fully offline transcription (Whisper.cpp)
 - Drag & drop audio files (m4a, mp3, wav, etc.)
 - Batch transcriptions (multiple files at once)
-- Choose Whisper model (tiny, small, medium)
+- Record meetings
+- Choose Whisper model (tiny, small, medium, large, large v3)
 - Optimized for Apple Silicon (M1/M2/M3)
 - Supports 98+ languages
-- Exports transcript to .txt or .srt (subtitles) or simple copy paste
+- Exports as .txt, .srt, .vtt, .csv, .docx, .pdf, .md, .html, .json or simple copy-paste
 
 Requires **Apple Silicon**.
 
@@ -61,8 +62,8 @@ This makes it ideal for:
 ## 🗺️ Roadmap
 These are planned but not guaranteed timelines:
 
-- More export formats  
-- Meeting recording
+- More export formats  - done
+- Meeting recording - done
 - More models
 - Text to speech functionality
 
